@@ -4,7 +4,7 @@ __date__ ="18-Jan-2011 12:51:42 PM"
 from distutils.core import setup
 
 setup (
-  name = 'PythonModule',
+  name = 'Phidgets',
   version = '2.1.8',
   description = 'Python Wrapper library for the Phidgets API',
   author = 'Adam',
